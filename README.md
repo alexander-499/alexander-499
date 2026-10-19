@@ -20,8 +20,8 @@
 
 I've been coding websites, apps and programs since 2023. My goal is to design beautiful and aesthetically pleasing user interfaces, with a focus on front-end development and a design-driven approach. **I use Vue!**
 
-- › [Portfolio](https://alexander499.de)
-- › [My Gists (Snippets)](https://gist.github.com/alexander-499)
+› [Portfolio](https://alexander499.de)
+› [My Gists (Snippets)](https://gist.github.com/alexander-499)
 
 <!-- ```js
 // src/profile.js
