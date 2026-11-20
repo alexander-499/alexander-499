@@ -2,7 +2,6 @@
 <!-- ![profile count](https://komarev.com/ghpvc/?username=alexander-499&color=red) -->
 
 <pre align="center">
-ᓚ₍ ^. .^₎                                                            ₍^. .^ ₎ᓗ
 ╭─────────────────────────────────────────────────────────────────────────────╮
 ✦ I’m interested in Coding, Minecraft, Designing, Windows, YouTube and more! ✦
 ✦ I’m currently learning many skills bit for bit which I am interested in.   ✦
@@ -18,7 +17,7 @@
 
 ### More Information
 
-I've been coding websites, apps and programs since 2023. My goal is to design beautiful and aesthetically pleasing user interfaces, with a focus on front-end development and a design-driven approach. **I use Vue!**
+I've been coding websites, apps and programs since 2023. My goal is to design beautiful and aesthetically pleasing user interfaces, with a focus on front-end development and a design-driven approach. And btw, I use Vue! `ᓚ₍ ^. .^₎`
 
 › [Portfolio](https://alexander499.de)<br>
 › [My Gists (Snippets)](https://gist.github.com/alexander-499)
